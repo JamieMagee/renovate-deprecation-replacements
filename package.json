@@ -1,14 +1,1 @@
-{
-  "name": "renovate-depreaction-replacements",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Jamie Magee <jamie.magee@gmail.com> (https://jamiemagee.co.uk)",
-  "license": "MIT",
-  "dependencies": {
-    "jade": "^1.11.0"
-  }
-}
+{"name":"renovate-depreaction-replacements","version":"0.0.1","description":"","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"Jamie Magee <jamie.magee@gmail.com> (https://jamiemagee.co.uk)","license":"MIT","dependencies":{"pug":"2.0.0"}}
